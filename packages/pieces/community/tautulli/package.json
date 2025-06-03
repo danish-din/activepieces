@@ -1,0 +1,7 @@
+{
+  "name": "@activepieces/piece-tautulli",
+  "version": "0.0.2",
+  "dependencies": {
+    "@activepieces/pieces-framework": "^0.3.2"
+  }
+}
